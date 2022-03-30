@@ -1,0 +1,21 @@
+development:
+  database: files_development
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  host: localhost
+
+test:
+  database: files_test
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  host: localhost
+
+production:
+  database: files_production
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  host: localhost
+

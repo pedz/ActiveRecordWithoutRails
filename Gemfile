@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'activerecord'
-gem 'standalone_migrations'
+gem 'logger'
+gem 'rake'
 gem 'pg'
