@@ -4,8 +4,7 @@
 
 I wanted to write a project using ActiveRecord and that morphed into
 wanting the database rake tasks as well.  This project is where I
-stopped and posted for others to use as a starting point for such
-projects for myself and others.
+stopped and posted to use as a starting point for such projects.
 
 I don't make any claims that this is correct, good, the best, or
 anything like that.  The `Rakefile` mostly came from
@@ -15,7 +14,7 @@ StackOverflow.
 The `fd.rb` was cobbled together from various suggestions on web
 sites.
 
-This is using PostgreSQL but any database that ActiveRecord support
+This is using PostgreSQL but any database that ActiveRecord supports
 should work.
 
 # Steps to use
