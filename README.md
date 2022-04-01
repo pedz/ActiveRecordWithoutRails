@@ -21,7 +21,7 @@ should work.
 1. Clone the repository
 2. Install Postgres
 3. Create a user in Postgres
-4. `rake create:db`
+4. `rake db:create`
 5. `rake db:migrate`
 6. `./fd.rb`
 7. `psql -c 'select * from files;' files_development`
