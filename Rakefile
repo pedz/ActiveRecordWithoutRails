@@ -1,3 +1,5 @@
+require 'rubygems'
+require 'bundler/setup'
 require 'yaml'
 require 'logger'
 require 'active_record'
